@@ -1,4 +1,4 @@
-#File descriptions
+# File descriptions
 
 Files main_directDamping.m, main_IntegralDamping.m and main_sparsePromote.m are source code files of the simulation program entries of methods of a decentralized droop control strategy with an energy function based ESS allocation scheme,CPI-based control strategy with a
 stability index based allocation scheme and a centralized control strategy with a sparse-promoting ESS allocation scheme respectively.

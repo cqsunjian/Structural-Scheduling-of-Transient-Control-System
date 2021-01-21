@@ -1,6 +1,6 @@
 # General description
 * These are the simulation codes of manuscript "Structural Scheduling of Transient Control with Energy Storage Systems by Sparse-Promoting Reinforcement Learning". The simulation requires the installation of Mat-power toolbox in MATLAB.
-* The source codes simulate the transient process of power grids with energy storage systems under a contingency, the proposed method of the manuscript is also impelemented in the source code.
+* The source codes simulate the transient process of power grids with energy storage systems under a contingency, the proposed method of the manuscript is impelemented in the source code.
 
 # Simulation environment requirements
 1. Matlab, version 2019a.

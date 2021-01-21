@@ -10,4 +10,4 @@ File CalculateEnergy.m is the source code file of energy function.
 File CalculatingL.m is the source code file of calculating A matrix for sparse promote method.
 File ReducedY.m is the source code file of calculating the admittance matrix.
 
-%the running of sparse promote methods need the cvx toolbox for solving semi-definite program problems, which can be downloaded from URL:http://cvxr.com/cvx/.
+the running of sparse promote methods need the cvx toolbox for solving semi-definite program problems, which can be downloaded from URL:http://cvxr.com/cvx/.

@@ -4,8 +4,8 @@
 
 # Simulation environment requirements
 1. Matlab, version 2019a.
-2. Matpower 7.0,which can be downloaded from URL:https://matpower.org/.
-3. CVX semi-definite programming toolbox,which can be downloadeded from URL:http://cvxr.com/cvx/. 
+2. Matpower 7.0, which can be downloaded from URL:https://matpower.org/.
+3. CVX semi-definite programming toolbox, which can be downloadeded from URL:http://cvxr.com/cvx/. 
 
 # Start the simulation
 All of the simulation program entry file names are started with "main" in each folder, the user can start the simulation by run the simulation program entry files in matlab.

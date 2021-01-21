@@ -8,7 +8,7 @@
 3. CVX semi-definite programming toolbox,which can be downloadeded from URL:http://cvxr.com/cvx/.
 
 # Start the simulation
-All of the simulation program entry files names are started with "main" in each folder, the user can start the simulation by run the simulation program entry files in matlab.
+All of the simulation program entry file names are started with "main" in each folder, the user can start the simulation by run the simulation program entry files in matlab.
 
 
 # File Directory descriptions

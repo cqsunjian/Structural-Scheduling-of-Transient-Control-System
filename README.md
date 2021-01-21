@@ -11,7 +11,7 @@
 All of the simulation program entry file names are started with "main" in each folder, the user can start the simulation by run the simulation program entry files in matlab.
 
 
-# File Directory descriptions
+# Folder descriptions
 * The folder "Simulation without control" includes the source code files for the power system transient simulation with a contingency happen, without control.
 * The folder "Simulation under proposed method" includes the source code files for the power system transient simulation with our proposed control in the paper after a contingency, and the control is activated at 0.4 s.
 * The folder "Control under various gamma" includes the source code files for the power system transient simulation with our proposed control method in the various values of gamma.
